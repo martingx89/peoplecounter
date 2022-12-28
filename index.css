@@ -29,6 +29,7 @@ button {
 	width: 200px;
 	margin-bottom: 5px;
 	border-radius: 5px;
+	transition: transform 0.2s;
 }
 
 #increment-btn {
@@ -41,4 +42,8 @@ button {
 
 p {
 	font-size: 24px;
+}
+
+button:active {
+	transform: scale(0.8);
 }
