@@ -34,3 +34,11 @@ button {
 #increment-btn {
 	background-color: darkred;
 }
+
+#save-btn {
+	background-color: greenyellow;
+}
+
+p {
+	font-size: 24px;
+}
